@@ -1,6 +1,7 @@
 const LIMIT = 24;
 const TOTAL_ANIME = 2055;
 
+
 const GENRES = [
   { slug: "hanh-dong", name: "Hành Động" },
   { slug: "vien-tuong", name: "Viễn Tưởng" },

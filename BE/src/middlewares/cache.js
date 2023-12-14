@@ -2,6 +2,7 @@ const mcache = require("memory-cache");
 
 const DEFAULT_DURATION = 10800; // 3 hours
 
+
 const cache = (duration = DEFAULT_DURATION) => {
   return (req, res, next) => {
     let key = "__express__" + req.originalUrl || req.url;

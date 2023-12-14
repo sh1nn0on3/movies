@@ -5,6 +5,7 @@ const path = require("path");
 const routes = require("./routes");
 const cache = require("./middlewares/cache");
 const errorHandler = require("./middlewares/errorHandler");
+
 require("dotenv").config({ path: path.resolve(__dirname, "../.env") });
 
 const app = express();

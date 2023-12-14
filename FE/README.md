@@ -8,7 +8,6 @@
   - [Nodejs](https://github.com/nodejs), [Express](https://github.com/expressjs/express)
   - Libraries: <s>[Cheerio](https://github.com/cheeriojs/cheerio)</s> [JSDom](https://github.com/jsdom/jsdom)
 
-##### Server github repo: [Netime-server](https://github.com/hoangvu12/Netime-server)
 
 ## Setup
 
@@ -29,7 +28,6 @@ Here is some screenshots to show how the website would looks like.
 ![watchscreen](https://user-images.githubusercontent.com/68330291/129450531-003515cb-49cc-4007-9bc0-ef36ddef2243.png)
 ![mobile-watchscreen](https://i.ibb.co/ch7kVDb/localhost-3000-watch-getter-robo-arc-episode-index-0-i-Phone-6-7-8-Plus.png)
 
-Or here is [live example](https://netime.vercel.app)
 
 ## Todo
 
